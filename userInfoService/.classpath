@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/axis-ant.jar"/>
+	<classpathentry kind="lib" path="lib/axis.jar"/>
+	<classpathentry kind="lib" path="lib/axis2-0.95.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/dbtag.jar"/>
+	<classpathentry kind="lib" path="lib/down.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient.jar"/>
+	<classpathentry kind="lib" path="lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="lib/jstl.jar"/>
+	<classpathentry kind="lib" path="lib/jtds-0.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/msbase.jar"/>
+	<classpathentry kind="lib" path="lib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="lib/msutil.jar"/>
+	<classpathentry kind="lib" path="lib/saaj.jar"/>
+	<classpathentry kind="lib" path="lib/soap.jar"/>
+	<classpathentry kind="lib" path="lib/standard.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="lib/xerces.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
